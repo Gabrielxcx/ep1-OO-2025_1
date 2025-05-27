@@ -19,35 +19,38 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   'Main.java'
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   'Main.java'
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   controller, data, model, view.
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   java21
 
 ---
 
 ## Vídeo de Demonstração
 
-- [Inserir o link para o vídeo no YouTube/Drive aqui]
+- https://youtu.be/9Yxzhynihfc
 
 ---
 
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![image](https://github.com/user-attachments/assets/71905495-80a6-42cc-b919-d85dd58d3494)
+
 
 2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+  ![image](https://github.com/user-attachments/assets/8d8be1f2-a0f5-41a7-bdeb-006bfa1f90d6)
+
 
 3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+  ![image](https://github.com/user-attachments/assets/94075fcf-8440-4d4b-a3e8-d61ee094c6d6)
+
 
 ---
 
@@ -67,10 +70,10 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- tive uma enorme dificildade em uma parte especifica que foi na questao do Lançar Avaliações e Frequências
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- 212005417@aluno.unb.br
